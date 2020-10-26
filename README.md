@@ -1,2 +1,2 @@
 # WebPages
-rhis repository is made to practice and save files from that practices.
+This repository is made for saving files created while practicing.
